@@ -1,0 +1,19 @@
+# 地点类
+MTV: Mountain View
+PAO: Palo Alto, PA
+SEA: Seattle, WA
+KIR: Kirkland
+SNV: Sunnyvale, CA
+SVL: Sunnyvale, CA
+TYO: 日本东京
+
+# 学术类
+CL: Change List
+LGTM: Looks good to me
+
+# 录取过程类
+PA: product area
+
+# 闲聊扯淡类
+tql: 太强了
+xswl: 笑死我了/吓死我了
