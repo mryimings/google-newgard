@@ -2,7 +2,7 @@
 MTV: Mountain View
 PAO: Palo Alto, PA
 SEA: Seattle, WA
-KIR: Kirkland
+KIR: Kirkland, WA
 SNV: Sunnyvale, CA
 SVL: Sunnyvale, CA
 TYO: 日本东京
