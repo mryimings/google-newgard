@@ -19,10 +19,7 @@ tql: 太强了
 xswl: 笑死我了/吓死我了
 
 # 信用卡类
-<<<<<<< HEAD
 EX: experian
 TU: TransUnion
 EQ: equifax
-=======
 HP: hard pull
->>>>>>> 5f8bd4ed164eaad6e393f3ff0534d365bb9e7d47
