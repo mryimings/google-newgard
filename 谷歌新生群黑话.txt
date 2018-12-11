@@ -6,6 +6,7 @@ KIR: Kirkland, WA
 SNV: Sunnyvale, CA
 SVL: Sunnyvale, CA
 TYO: 日本东京
+NYC: New York City
 
 # 学术类
 CL: Change List
