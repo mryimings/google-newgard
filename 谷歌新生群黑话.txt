@@ -13,6 +13,7 @@ LGTM: Looks good to me
 
 # 录取过程类
 PA: product area
+BGC: background check
 
 # 闲聊扯淡类
 tql: 太强了
