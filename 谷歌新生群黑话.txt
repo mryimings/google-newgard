@@ -17,3 +17,6 @@ PA: product area
 # 闲聊扯淡类
 tql: 太强了
 xswl: 笑死我了/吓死我了
+
+# 信用卡类
+HP: hard pull
