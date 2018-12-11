@@ -25,3 +25,5 @@ EX: experian
 TU: TransUnion
 EQ: equifax
 HP: hard pull
+CSP: chase sapphire preferred
+CSR: chase sapphire reserve
